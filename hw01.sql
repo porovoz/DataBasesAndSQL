@@ -11,7 +11,7 @@ CREATE TABLE employee (
 
 INSERT INTO employee (
     first_name, last_name, gender, age)
-VALUES (‘Sergey’, ‘Klimov’, ‘male’, 45);
+VALUES ('Sergey', 'Klimov', 'male', 45);
 INSERT INTO employee (
     first_name, last_name, gender, age)
 VALUES('Elena', 'Nazarova', 'female', 25);
